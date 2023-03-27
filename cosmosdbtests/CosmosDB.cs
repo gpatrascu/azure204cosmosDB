@@ -15,7 +15,7 @@ public class CosmosDB : IAsyncLifetime
 
     // Set variable to the Primary Key from earlier.
     private static readonly string PrimaryKey =
-        "dC3i4aON6xz21VgdG0sn1twdo9ImXmYLedeCSdUMw63I2DPPLu80Gi3cOonTeRbCwcrqvmA9UYr3ACDbHIMRzw==";
+        "==";
 
     private readonly ITestOutputHelper _testOutputHelper;
     private Container container;
